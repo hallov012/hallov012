@@ -9,3 +9,9 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
 
 
+## Experience
+### SSAFY 7기 (삼성 SW 아카데미)
+2022.01 - 2022.12
+
+### 주식회사 해피해킹 (FE 엔지니어)
+2023.01 - 
